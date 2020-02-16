@@ -1,1 +1,1 @@
-echo "example# ReadMe" >> README.md  
+echo "example#3 ReadMe" >> README.md  
